@@ -13,7 +13,7 @@ export function foo() {
 
 B.js:
 ```js
-import { foo } from "./B";
+import { foo } from "./A";
 
 var a = foo();
 var b = foo();
