@@ -1,0 +1,15 @@
+# Vim noise
+*.swp
+
+# node, npm, etc etc
+node_modules/
+npm-debug.log
+bower_components/
+
+# Just noise
+*~
+*.orig
+
+# build noise
+/build/
+/static/
